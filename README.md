@@ -1,5 +1,5 @@
 # CMPE281-Hackathon
-< multi-cloud Starbucks Drink Ordering portal based on the Restbucks CRUD REST API design >
+A multi-cloud Starbucks Drink Ordering portal based on the Restbucks CRUD REST API design 
 ![ScreenShot](https://raw.github.com/khurana3773/FrontendStarbucks/master/starbucks_stores.png)
 
 View demo for this project :- https://www.youtube.com/watch?v=1DqcBS7eUiI
