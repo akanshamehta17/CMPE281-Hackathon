@@ -4,6 +4,8 @@ A Multi-Cloud Starbucks Drink Ordering portal based on the Restbucks CRUD REST A
 
 View demo for this project :- https://www.youtube.com/watch?v=1DqcBS7eUiI
 
+This Repository contains has Backend Starbucks Store 2 information. To know more about Frontend, visit the following repo: https://github.com/khurana3773/FrontendStarbucks.git
+
 Summary: 
 
 - It's a team project of four people where 3 team members individually worked on backend Starbucks store and 1 team member worked on middleware Kong API Gateway and all 4 members contributed to frontend.
@@ -17,3 +19,5 @@ Summary:
 - Implementation of APIs is backed by a 3-Node NoSQL Mongo database cluster
 
 - Deployed the Starbucks store (backend) on AWS ec2 instance.
+
+
